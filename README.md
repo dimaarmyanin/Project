@@ -18,7 +18,7 @@ git clone https://github.com/yourusername/ordering-various-services.git
 ```
 
 2. Установить зависимости
-3. 
+
 Создайте виртуальное окружение и установите все необходимые зависимости:
 
 ```sh
